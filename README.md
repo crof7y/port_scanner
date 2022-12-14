@@ -5,5 +5,5 @@ such as Operating System and Device Name) and which ports are vulnerable to atta
 I've found the most success running this program in a Linux environment as it seems to consume fewer resources, however I have used it as an .exe file on
 my Windows machine and it does work, it's just...less than the Linux version.
 
-This program does require a few packages be installed to run. I have included an .mp4 video of me using it and detailing the necessary packages to install.
-Consider the video to be 'README_butReallyWatchMe.mp4'
+This program does require a few packages be installed to run. This link: https://youtu.be/WWtAfmdvYXg contains a video of me using the program and 
+detailing the necessary packages to install. Consider the video to be 'README_butReallyWatchMe.mp4'
